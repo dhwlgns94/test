@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* font-Philosopher */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&family=Philosopher:wght@400;700&display=swap');
+/* 
+font-family: 'Philosopher', sans-serif;
+ */
+/* font-Philosopher */
+
+/* font-아리따 */
+@font-face {
+    font-family: 'Arita-dotum';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-dotum-Medium.woff') format('woff');
+    font-weight: normal;/* = 400 */
+    font-style: normal;
+}
+/* font-아리따 */
